@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FiFcreeN
-- 👀 I’m interested in game and app development
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m Ricardo
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me -> ricardo.dev185@gmail.com
