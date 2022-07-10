@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Ricardo
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning SQL
 - 📫 How to reach me -> ricardo.dev185@gmail.com
