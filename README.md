@@ -11,6 +11,7 @@
 <ul>
   <li>💻 Software Developer</li>
   <li>📚 Bachelor's degree in Informatics Engineering at Universidade de Coimbra</li>
+  <li>📚 Currently doing the master's 💪</li>
   <li>📧 How to reach me: ricardo.dev185@gmail.com</li>
 </ul>
 
@@ -20,8 +21,8 @@
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,rust)](https://skillicons.dev)
 ## Web
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=django,fastapi,flask)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,flask,spring)](https://skillicons.dev)  
 ## Others
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,tauri)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,tauri,kafka)](https://skillicons.dev)  
 ## Fun stuff
-[![My Skills](https://skillicons.dev/icons?i=regex,arduino,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=regex,arduino,unity,figma)](https://skillicons.dev)
