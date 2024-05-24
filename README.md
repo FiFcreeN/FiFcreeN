@@ -20,9 +20,9 @@
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,rust)](https://skillicons.dev)
 ## Web
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=django,fastapi,flask,spring)](https://skillicons.dev)  
 ## Others
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,tauri,kafka)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,docker,tauri,kafka,maven)](https://skillicons.dev)  
 ## Fun stuff
 [![My Skills](https://skillicons.dev/icons?i=regex,arduino,unity,figma)](https://skillicons.dev)
