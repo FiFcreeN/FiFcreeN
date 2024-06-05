@@ -23,6 +23,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=django,fastapi,flask,spring)](https://skillicons.dev)  
 ## Others
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,docker,tauri,kafka,maven)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,docker,tauri,kafka,maven,mongodb,aws)](https://skillicons.dev)  
 ## Fun stuff
-[![My Skills](https://skillicons.dev/icons?i=regex,arduino,unity,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=regex,arduino,unity,figma,sklearn)](https://skillicons.dev)
